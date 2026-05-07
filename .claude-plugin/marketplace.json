@@ -458,7 +458,8 @@
       "category": "database",
       "source": {
         "source": "url",
-        "url": "https://github.com/ClickHouse/clickhouse-claude-code-plugin.git"
+        "url": "https://github.com/ClickHouse/clickhouse-claude-code-plugin.git",
+        "sha": "db1c108dde6e5c81a1ca65f3b6700d6fff288545"
       },
       "homepage": "https://github.com/ClickHouse/clickhouse-claude-code-plugin"
     },
